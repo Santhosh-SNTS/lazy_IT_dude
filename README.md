@@ -16,7 +16,7 @@
   
   Step 4: Move to  Lazy_IT_dude.py file using command prompt
   
-  Step 5: Open it, usnign the command below
+  Step 5: Open it, using the command below
   
           python lazy_it_dude.py
           
