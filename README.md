@@ -14,11 +14,11 @@
           
   Step 3: Download the Lazy_IT_dude repository 
   
-  Step 4: Move to the Lazy_IT_dude.py  file using command prompt
+  Step 4: Move to  Lazy_IT_dude.py file using command prompt
   
   Step 5: Open it, usnign the command below
   
-          python Lazy_IT_dude.py
+          python lazy_it_dude.py
           
   Step 6: Then, Enter the number of seconds that you need your mouse to move
 	
