@@ -4,7 +4,7 @@
 
 •	Mouse automation
 
-**TO use this Program**
+**To use this Program**
 
   Step 1: Download and install python (windows: https://www.python.org/downloads/ ) 
   
